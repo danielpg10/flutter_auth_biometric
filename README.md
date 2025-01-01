@@ -1,16 +1,20 @@
-# flutter_auth_biometric
+# 🛡️ **flutter_auth_biometric**  
 
-A new Flutter project.
+**A modern Flutter application for biometric authentication, offering fingerprint and facial recognition for enhanced security.**
 
-## Getting Started
+-----------------------------------------
 
-This project is a starting point for a Flutter application.
+## ✨ **Key Features**  
 
-A few resources to get you started if this is your first Flutter project:
+- 🧠 **Smart Authentication:** Fingerprint and facial recognition for secure access.  
+- ⚡ **Quick Login:** Instant authentication without passwords.  
+- 🌍 **Cross-Platform:** Seamlessly works on iOS and Android.  
+- 🔐 **User Privacy:** Secure local data storage.  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+-----------------------------------------
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ **Built With**  
+
+- 📱 **Flutter 3.22.3**  
+- 🚀 **Dart 3.4.4**  
+- 🔑 **Local Authentication API**  
